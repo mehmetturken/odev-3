@@ -1,5 +1,5 @@
-#Ödev 3#
+#Ödev 3
 
-##Ödevim##
+##Ödevim
 
 ![Image](img/odev-3.png)
